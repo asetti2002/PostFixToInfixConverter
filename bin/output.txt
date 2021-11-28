@@ -1,0 +1,37 @@
+12 23 4 3 7 11 2 ^ / – ^ * 25 % +
+Error: too many operators (^)
+Error: too many operators (-)
+2 3 * 12 / -16 -
+3 4 5 * +
+Error: too many operators (+)
+a b * 5 + c d e 2 f ^ + % g / - 3 ^ ^ h i + -
+3 a b + c + * e 2 ^ f g * + h / - i 3 ^ +
+3
+A B C * + D +
+A B + C D + *
+A B + C + D +
+A B + C *
+Error: too many operators (-)
+3 4 5 3 1 12 ^ ^ ^ ^ ^
+12 23 4 3 7 11 2 ^ / – ^ * 25 % +
+Error: too many operators (^)
+Error: too many operators (-)
+2 3 * 12 / -16 -
+2 3 + 4 - 5 *
+3 4 2 5 ^ - * 6 +
+Error: too many operands (3)
+Error: too many operators (-)
+Error: too many operands (3)
+Error: no opening parenthesis detected
+Error: no subexpression detected ()
+Error too many operators (+)
+Error: too many operands (9)
+Error: no subexpression detected ()
+Error: no opening parenthesis detected
+Error: too many operands (9)
+3 4 * 5 3 + +
+Error too many operators (+)
+Error: too many operators (+)
+Error: too many operators (+)
+1 2 -5 3 ^ * +
+1 2 -5 3 ^ * +
